@@ -1,6 +1,6 @@
 
 .bg-custom {
-    background-color: rgba(211, 211, 211, 0.082); 
+    background-color:#f1aeb56c; 
 }
 
 .container-sm {
@@ -9,10 +9,19 @@
     width: 100%;
     padding-right: calc(var(--bs-gutter-x) * 0.5);
     padding-left: calc(var(--bs-gutter-x) * 0.5);
+    padding-top: 08%;
     margin-right: auto;
     margin-left: auto;
-  }
+}
+.card{
+    background-color: #f1aeb5b0;
+}
+
 .btn-custom {
-    background-color: rgb(129, 207, 233);
+    margin-right: 30px;
+    background-color: #dd9ca3;
     color: black 
+}
+.container{
+    padding-top: 08%;
 }
