@@ -2,19 +2,19 @@
 .bg-custom {
     background-color:#f1aeb56c; 
 }
-
-.container-sm {
-    --bs-gutter-x: 1.5rem;
-    --bs-gutter-y: 0;
-    width: 100%;
-    padding-right: calc(var(--bs-gutter-x) * 0.5);
-    padding-left: calc(var(--bs-gutter-x) * 0.5);
-    padding-top: 08%;
+.alert-background{
+    margin-top: 10%;
+    text-align: center;
+    width: 30%;
+    padding-top: 01%;
+    padding-bottom: 02%;
     margin-right: auto;
     margin-left: auto;
-}
-.card{
+    color: black;
     background-color: #f1aeb5b0;
+}
+h3{
+    margin-top: 0;
 }
 
 .btn-custom {
@@ -23,5 +23,5 @@
     color: black 
 }
 .container{
-    padding-top: 08%;
+    padding-top: 9%;
 }
